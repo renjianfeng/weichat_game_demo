@@ -1,0 +1,37 @@
+{
+	"description": "",
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"nodeModules": false
+	},
+	"compileType": "game",
+	"libVersion": "2.5.0",
+	"appid": "wxa3913ff9ada13af0",
+	"projectname": "wxgame-typescript-starter",
+	"cloudfunctionRoot": "functions/",
+	"packOptions": [],
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": []
+		}
+	}
+}
